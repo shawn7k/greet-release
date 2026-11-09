@@ -1,0 +1,7 @@
+README.md
+greet.py
+pyproject.toml
+greet_week10.egg-info/PKG-INFO
+greet_week10.egg-info/SOURCES.txt
+greet_week10.egg-info/dependency_links.txt
+greet_week10.egg-info/top_level.txt
